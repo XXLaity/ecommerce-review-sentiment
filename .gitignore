@@ -9,7 +9,6 @@ venv/
 data_raw/
 data/
 outputs/
-models/*.joblib
 
 # IDE / 系统
 .idea/
