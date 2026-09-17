@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 数据与产物
+data_raw/
+data/
+outputs/
+models/*.joblib
+
+# IDE / 系统
+.idea/
+.vscode/
+.DS_Store
